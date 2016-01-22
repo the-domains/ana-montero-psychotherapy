@@ -1,0 +1,28 @@
+name: Ana Montero Psychotherapy
+favicon: null
+layout_spectrum: 0.17378200590610504
+typography_spectrum: 0.3780685744713992
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.4670556499622762
+  lightness: 0.3458882989361882
+  saturation: 0.5093082385137677
+  rhythmicContrast: 0.6789996642619371
+purpose: []
